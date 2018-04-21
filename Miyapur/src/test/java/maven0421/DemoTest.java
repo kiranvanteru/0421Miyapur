@@ -9,6 +9,7 @@ public class DemoTest {
   public void f() {
 	  
 	  System.out.println("test execution");
+	  System.out.println("new changes");
   }
   @BeforeTest
   public void beforeTest() {
