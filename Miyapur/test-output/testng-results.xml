@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47" started-at="2018-04-21T14:49:04Z" finished-at="2018-04-21T14:49:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47" started-at="2018-04-21T14:49:04Z" finished-at="2018-04-21T14:49:05Z">
+      <class name="maven0421.DemoTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:maven0421.DemoTest@27efef64]" name="beforeTest" is-config="true" duration-ms="12" started-at="2018-04-21T20:19:04Z" finished-at="2018-04-21T20:19:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:maven0421.DemoTest@27efef64]" name="f" duration-ms="12" started-at="2018-04-21T20:19:05Z" finished-at="2018-04-21T20:19:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:maven0421.DemoTest@27efef64]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-04-21T20:19:05Z" finished-at="2018-04-21T20:19:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- maven0421.DemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
